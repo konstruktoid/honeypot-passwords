@@ -1,26 +1,26 @@
-# 2022-06-27 to 2022-11-13
-222430 root
- 23213 admin
-  6733 user
-  5992 test
-  3929 ubuntu
-  2596 oracle
-  2428 postgres
-  1885 ftpuser
+# 2022-06-27 to 2022-12-03
+222529 root
+ 23224 admin
+  6747 user
+  5999 test
+  3939 ubuntu
+  2606 oracle
+  2435 postgres
+  1893 ftpuser
   1645 default
-  1293 git
-  1214 guest
-  1031 www
-  1012 mysql
+  1295 git
+  1222 guest
+  1033 www
+  1017 mysql
    987 debian
-   961 testuser
-   931 pi
-   897 hadoop
-   894 steam
-   672 test1
-   672 deploy
-   670 minecraft
-   670 es
+   966 testuser
+   932 pi
+   902 hadoop
+   897 steam
+   676 test1
+   674 es
+   673 deploy
+   672 minecraft
    628 ftp
    607 test2
    607 student
