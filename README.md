@@ -1,4 +1,4 @@
-# Honeyport account and password list
+# Honeypot account and password lists
 
 This repository contains the account names and passwords gathered from running
 [a SSH honepot](https://github.com/konstruktoid/ansible-cowrie-rootless).
